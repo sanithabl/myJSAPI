@@ -1,5 +1,4 @@
-{
-  "fruits": [
+ [
     {
       "id": 1,
       "name": "Pant",
@@ -49,4 +48,4 @@
       "image":"https://images-na.ssl-images-amazon.com/images/I/71LUDcnf8zL._UY550_.jpg"
     }
   ]
-}
+
