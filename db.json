@@ -48,14 +48,7 @@
       "SKU":"1-214",
       "image":"https://images-na.ssl-images-amazon.com/images/I/71LUDcnf8zL._UY550_.jpg"
     }
-    {
-      "id": 7,
-      "name": "Gown",
-      "model":"full",
-      "price":"475",
-      "SKU":"1-214",
-      "image":"https://m.media-amazon.com/images/I/71E8tPgLMOL._AC_UL320_.jpg"
-    }
+    
   ]
 }
 
