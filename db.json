@@ -47,7 +47,16 @@
       "price":"1400",
       "SKU":"1-214",
       "image":"https://images-na.ssl-images-amazon.com/images/I/71LUDcnf8zL._UY550_.jpg"
+    },
+     {
+      "id": 7,
+      "name": "Palazza",
+      "model":"full",
+      "price":"1400",
+      "SKU":"1-214",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71LUDcnf8zL._UY550_.jpg"
     }
+    
     
   ]
 }
